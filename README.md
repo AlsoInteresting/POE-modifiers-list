@@ -11,7 +11,7 @@ Order of execution:
 - add-meta.ps1
 - create-relation.ps1
 
-The result:
+The result are flat files with columns:
 - mods.csv: all modifiers strings with tiers, req. levels, influence,..
 - base-items: all base items
 - item-mods: the relation between the items and possible mods
