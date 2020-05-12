@@ -2,8 +2,8 @@
 Generate flat file of POE item modifiers
 
 This Powershell code gets all the Path Of Exile modifiers from the Brather1ng RePoe repository.
-Order of execution
 
+Order of execution:
 -import-translations.ps1
 -import-base-item.ps1
 -get-mods-from-json.ps1
