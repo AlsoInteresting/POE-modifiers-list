@@ -1,7 +1,8 @@
 # POE-modifiers-list
-Generate flat file of POE item modifiers
+Generate a flat file of POE item modifiers to identify rare item modifiers.
+Without maps,uniques and legacy items though.
 
-This Powershell code gets all the Path Of Exile modifiers from the Brather1ng RePoe repository.
+This Powershell code gets all the Path Of Exile modifiers from the https://github.com/brather1ng/RePoE repository.
 
 Order of execution:
 -import-translations.ps1
